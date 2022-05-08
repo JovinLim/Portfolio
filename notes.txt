@@ -1,0 +1,13 @@
+## Importing gotham font in html ##
+<style>
+@import url('http://fonts.cdnfonts.com/css/gotham');
+</style>
+
+## CSS rules to specify families ##
+font-family: 'Gotham', sans-serif;
+font-family: 'Gotham Black', sans-serif;
+font-family: 'Gotham Light', sans-serif;
+font-family: 'Gotham Thin', sans-serif;
+font-family: 'Gotham XLight', sans-serif;
+font-family: 'Gotham Book', sans-serif;
+font-family: 'Gotham Ultra', sans-serif;
